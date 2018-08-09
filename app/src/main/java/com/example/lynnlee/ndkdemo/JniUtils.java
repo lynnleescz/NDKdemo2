@@ -10,7 +10,4 @@ public class JniUtils {
     }
 
     public static native String stringFromJNI();
-
-    public static native int addFromJNI(int a, int b);
-
 }
